@@ -1,0 +1,1 @@
+print("¡Hola, mundo! Este es el inicio de mi proyecto de reconocimiento de placas.")
